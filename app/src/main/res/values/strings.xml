@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppBD</string>
+
+    <string-array name="sexo">
+        <item>FEMENINO</item>
+        <item>MASCULINO</item>
+    </string-array>
+</resources>
